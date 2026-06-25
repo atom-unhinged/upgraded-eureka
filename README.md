@@ -15,3 +15,5 @@ Professional painting estimation and visualization tool.
 - Material breakdown
 - Labor hour estimation
 - Export results
+
+    ![Atom Logo](atom-logo.svg)
